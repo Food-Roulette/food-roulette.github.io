@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d72bb22.css",
+    "main.js": "/static/js/main.d80a9462.js",
+    "static/js/787.c4084683.chunk.js": "/static/js/787.c4084683.chunk.js",
+    "static/media/food-background-3024.jpg": "/static/media/food-background-3024.f746b96b065506ac4f47.jpg",
+    "static/media/food-background-800.jpg": "/static/media/food-background-800.682dcf0fc95f9b1d1484.jpg",
+    "static/media/food-background-2000.webp": "/static/media/food-background-2000.f0bc31978d8eb81041d4.webp",
+    "static/media/food-background-500.jpg": "/static/media/food-background-500.91c689eee8882e4d8faa.jpg",
+    "static/media/food-background-1500.webp": "/static/media/food-background-1500.e0e845a06b6897f88f52.webp",
+    "static/media/food-background-800.webp": "/static/media/food-background-800.5fd82acafae25dc93b3e.webp",
+    "static/media/food-background-500.webp": "/static/media/food-background-500.dc7d5d0bafad3209e97d.webp",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.5d72bb22.css.map": "/static/css/main.5d72bb22.css.map",
+    "main.d80a9462.js.map": "/static/js/main.d80a9462.js.map",
+    "787.c4084683.chunk.js.map": "/static/js/787.c4084683.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d72bb22.css",
+    "static/js/main.d80a9462.js"
+  ]
+}
